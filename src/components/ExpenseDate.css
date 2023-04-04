@@ -1,0 +1,8 @@
+.Expense-Date{
+	color: white;
+	border-radius: 25px;
+	border: solid white;
+	padding: 10px;
+	margin: 10px;
+	background-color: rgb(16, 16, 70);
+}
